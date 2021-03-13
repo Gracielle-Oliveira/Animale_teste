@@ -2,7 +2,7 @@
     width:100%;
     height: 100%;
 
-    background-color: rgba(0,0,0, 0.7);
+    background-color: rgba(99, 96, 96, 0.7);
 
     position: fixed;
     top: 0;
@@ -26,7 +26,7 @@
     width: 100%;
     height: 15%;
     margin-top: 36%;
-    max-width: 1200px;
+    max-width: 1190px;
 
 }
 
@@ -60,7 +60,7 @@
     display: flex;
     justify-content:space-between;
     align-items:center;
-
+    
 }
 
 .btn-close{
@@ -70,7 +70,8 @@
     border-radius:0.25rem;
     width: 80px;
     height: 40px;
-     
+    
+    cursor: pointer;
     opacity: 0.9;
 }
 
@@ -86,6 +87,7 @@
     width: 80px;
     height: 40px;
     
+    cursor: pointer;
     opacity: 0.9;
 }
 
